@@ -1,16 +1,16 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Roberto Guevara
-===
-
-Ingeniero Estructural
----
+# Roberto Guevara
+## Ingeniero Civil
 ### Acerca de mi:
 #### Ingeniero Civil con Maestría en Estructuras Sismorresistentes
-
-Entusiasta por la automatización y la programación, busco aplicar mis habilidades técnicas en proyectos de ingeniería. Mi interés en la metodología BIM me impulsa a explorar soluciones innovadoras para el diseño y la construcción. Con experiencia en análisis estructural y un enfoque en la seguridad, aspiro a contribuir al desarrollo sostenible y resiliente de infraestructuras.
-
+Profesional con sólida experiencia en el análisis y diseño de estructuras. Mi
+trayectoria profesional se centra en la ingeniería estructural, donde he aplicado mis
+habilidades de cálculo para garantizar la integridad y seguridad de las construcciones
+Entusiasta por la automatización y programación, mi interés en la metodología BIM me impulsa a explorar soluciones innovadoras para el diseño y la construcción
 
 * 🌍  Soy de Ecuador
-* 🧠  Interesado en Diseño estructural, programación & BIM
+* ✉️  Contactame a [raguevara98@gmail.com](mailto:raguevara98@gmail.com)
+* 🚀  Actualmente trabajo como [freelancer](http://my.app)
+* 🧠  Interesado en diseño estructural, programación & BIM
 
 ---
 ### Habilidades
@@ -20,13 +20,13 @@ Entusiasta por la automatización y la programación, busco aplicar mis habilida
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="Git" /></a>
-<img src="etabslogo.png" width="36" height="36" alt="Git">
-<img src="sap2000_icon.png" width="36" height="36" alt="Git">
-<img src="safe_icon.png" width="36" height="36" alt="Git">
-<img src="revit_icon.svg" width="36" height="36" alt="Git">
-<img src="autocad_icon.png" width="36" height="36" alt="Git">
-<img src="word_icon.png" width="36" height="36" alt="Git">
-<img src="excel_icon.png" width="36" height="36" alt="Git">
+<img src="imagenes//etabslogo.png" width="36" height="36" alt="Git">
+<img src="imagenes//sap2000_icon.png" width="36" height="36" alt="Git">
+<img src="imagenes//safe_icon.png" width="36" height="36" alt="Git">
+<img src="imagenes//revit_icon.svg" width="36" height="36" alt="Git">
+<img src="imagenes//autocad_icon.png" width="36" height="36" alt="Git">
+<img src="imagenes//word_icon.png" width="36" height="36" alt="Git">
+<img src="imagenes//excel_icon.png" width="36" height="36" alt="Git">
 </p>
 
 ### Connect with me:
