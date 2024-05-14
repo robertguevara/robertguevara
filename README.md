@@ -4,12 +4,12 @@
 #### Ingeniero Civil con Maestría en Estructuras Sismorresistentes
 Profesional con sólida experiencia en el análisis y diseño de estructuras. Mi
 trayectoria profesional se centra en la ingeniería estructural, donde he aplicado mis
-habilidades de cálculo para garantizar la integridad y seguridad de las construcciones
-Entusiasta por la automatización y programación, mi interés en la metodología BIM me impulsa a explorar soluciones innovadoras para el diseño y la construcción
+habilidades de cálculo para garantizar la integridad y seguridad de las construcciones.
+Entusiasta por la automatización y programación, mi interés en la ingeniería estructural me impulsa a explorar soluciones innovadoras para el diseño y la construcción
 
 * 🌍  Soy de Ecuador
 * ✉️  Contactame a [raguevara98@gmail.com](mailto:raguevara98@gmail.com)
-* 🚀  Actualmente trabajo como [freelancer](http://my.app)
+* 🚀  Actualmente trabajo como freelancer
 * 🧠  Interesado en diseño estructural, programación & BIM
 
 ---
